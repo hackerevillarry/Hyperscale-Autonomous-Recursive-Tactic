@@ -28,4 +28,13 @@ README.md 375 B
 SHA256: efb8107b36dbc6c1a3084e19ebca1d926dd2a74b5631e21dc248767df2c0bd7d
 
 
+https://web.archive.org/
+
+
+<img width="1304" height="735" alt="image" src="https://github.com/user-attachments/assets/529d6eea-fe2a-42ea-9465-cb338b4b19ae" />
+
+
+https://web.archive.org/web/20261006040328/https://github.com/hackerevillarry/Hyperscale-Autonomous-Recursive-Tactic
+
+
 ## ============================================= 
