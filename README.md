@@ -6,6 +6,8 @@
 
 We are a **defense technology company** building systems to **defend humanity against hostile and uncontrolled AGI**, with a focus on creating **entirely new categories of security and control infrastructure for the post-AGI world**.
 
+### ------------------------------
+
 We are building a new kind of technology designed for a world where **artificial intelligence may become more powerful than the systems created to control it**. 
 
 The project is focused on creating an **independent layer of protection between advanced machine intelligence and the real-world systems it could influence, disrupt, or control**. 
