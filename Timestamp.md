@@ -36,4 +36,9 @@
 
 # 3 
 
-## https://web.archive.org/save
+## https://web.archive.org/
+
+### https://web.archive.org/web/20261010062719/https://github.com/hackerevillarry/Hyperscale-Autonomous-Recursive-Tactic
+
+<img width="1298" height="578" alt="image" src="https://github.com/user-attachments/assets/92ca77d1-9f41-4eb1-9748-77cd8d281233" />
+
