@@ -1,220 +1,155 @@
-NON-COMMERCIAL SOURCE-AVAILABLE LICENSE
-
-
-Copyright (c) 2026 o30m MSME (Udyam) ( Founder :  Bhavesh M. Dhake )
-
-
-All rights reserved.
-
-
-1. GRANT OF PERMISSION
-
-Subject to the terms and conditions of this License, the copyright holder
-grants any person a non-exclusive, worldwide, royalty-free, non-transferable
-license to:
-
-a. view and read the source code;
-
-b. download and obtain copies of the source code;
-
-c. study and learn from the source code;
-
-d. execute and use the software for personal, educational, academic,
-   research, laboratory, CTF, authorized security-testing, and other
-   non-commercial purposes;
-
-e. modify the source code for non-commercial purposes; and
-
-
-f. share and redistribute unmodified or modified copies of the software
-   for non-commercial purposes.
-
-
-2. NON-COMMERCIAL RESTRICTION
-
-
-The permissions granted by this License are strictly limited to
-non-commercial purposes.
-
-
-You may NOT, without prior written permission from the copyright holder:
-
-
-a. sell the software or any substantial portion of its source code;
-
-b. charge a fee for access to the software or its source code;
-
-c. commercially distribute, resell, sublicense, lease, rent, or otherwise
-   monetize the software;
-
-d. incorporate the software or a substantial portion of its source code
-   into a commercial product, service, or offering;
-
-e. offer the software as part of a paid security-testing, penetration-
-   testing, consulting, managed-security, or other commercial service;
-
-f. use the software for a commercial purpose where the software itself
-   constitutes a material component of the commercial service or product;
-
-g. create a substantially similar commercial product primarily based on
-   this software and its source code; or
-
-h. remove or alter copyright, license, or attribution notices contained
-   in the software.
-
-
-3. MODIFIED VERSIONS
-
-
-You may modify this software for permitted non-commercial purposes.
-
-
-Any redistribution of a modified version must:
-
-
-a. clearly state that the software has been modified;
-
-b. retain this License;
-
-c. retain the original copyright and attribution notices; and
-
-d. include a prominent notice identifying the original project and
-   copyright holder.
-
-
-Modified versions remain subject to the non-commercial restrictions of
-this License.
-
-
-4. SOURCE CODE
-
-
-Where the software is redistributed, the corresponding source code must
-also be made available to recipients under this same License.
-
-
-5. COMMERCIAL LICENSING
-
-
-The copyright holder retains the exclusive right to authorize commercial
-use, commercial distribution, resale, sublicensing, and other commercial
-exploitation of the software.
-
-
-A separate commercial license may be obtained from the copyright holder.
-The terms and fees of any commercial license are determined solely by
-the copyright holder.
-
-
-Contact for commercial licensing:
-
-
-o30m@proton.me
-
-
-6. COPYRIGHT AND OWNERSHIP
-
-
-The software and all original source code remain the intellectual property
-of the copyright holder.
-
-
-This License does not transfer ownership, title, or copyright in the
-software to any recipient.
-
-
-Except for the limited permissions expressly granted by this License,
-all rights are reserved by the copyright holder.
-
-
-Nothing in this License grants permission to use the copyright holder's
-name, trademarks, logos, or other branding except where necessary to
-accurately identify the software.
-
-
-7. CONTRIBUTIONS
-
-
-Unless expressly agreed otherwise in writing, contributions submitted to
-this project remain the property of their respective authors.
-
-
-By submitting a contribution, the contributor grants the project copyright
-holder and recipients of the project the rights necessary to use,
-reproduce, modify, and distribute that contribution under this License.
-
-
-Contributors represent that they have the necessary rights to submit
-their contributions.
-
-
-8. SECURITY RESEARCH AND AUTHORIZED USE
-
-
-This software is intended to support legitimate security research,
-education, experimentation, laboratory environments, CTF competitions,
-and authorized security testing.
-
-
-You are solely responsible for ensuring that your use of the software
-complies with all applicable laws, regulations, contracts, authorization
-requirements, and policies.
-
-
-Nothing in this License grants permission to access, interfere with,
-damage, disrupt, or compromise systems, networks, accounts, devices, or
-data that you are not authorized to test.
-
-
-9. NO WARRANTY
-
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
-
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
-SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-10. TERMINATION
-
-
-Any rights granted under this License automatically terminate if you
-violate any term of this License.
-
-
-Upon termination, you must cease use and distribution of the software,
-subject to any rights that cannot lawfully be terminated under applicable
-law.
-
+H.A.R.T. CONCEPT DISCLOSURE — READ-ONLY LICENSE
+Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
+Operating under o30m MSME (Udyam Registered).
+
+1. PURPOSE OF THIS REPOSITORY
+
+This repository is a public record of the public disclosure of a concept.
+It contains no source code, no implementation, and no technical artifacts
+that would permit reproduction. Its sole function is to establish a
+dated, public, cryptographic record of the originator's claim to the
+concept named herein.
+
+2. WHAT IS PROTECTED
+
+The following are the intellectual property of the copyright holder and
+are protected by this License, by copyright, by trade-secret law where
+applicable, and by any other right available under the laws of any
+jurisdiction in which this License is enforced:
+
+  a. The concept, system, and field of study named H.A.R.T. —
+     Hyperscale Autonomous Recursive Tactic.
+  b. The field of study described as "Deterministic Metacognitive
+     Symbolic AGI" and any derivative or cognate formulation.
+  c. The capability profile, intended scope, and design intent of
+     the system, as described in the README of this repository and
+     in any prior or subsequent disclosure by the copyright holder.
+  d. The text, diagrams, terminology, and structure of the README
+     and any other file in this repository.
+  e. Any implementation, prototype, working note, or technical
+     artifact held privately by the copyright holder that is
+     consistent with the disclosures of this repository.
+
+3. WHAT IS PERMITTED
+
+The only permission granted by this License is to:
+
+  a. Read the contents of this repository.
+  b. Reference the existence and date of this repository for the
+     purpose of establishing prior art, in a context that does not
+     itself constitute infringement, misappropriation, or unfair
+     competition.
+
+  No other permission is granted, whether express, implied, by
+  estoppel, or otherwise. "Read" does not include the right to
+  study for the purpose of implementation, to extract, to reverse
+  engineer, to summarize for technical reproduction, or to use the
+  disclosed concept as a basis, input, or reference for any
+  technical, commercial, academic, or research project.
+
+4. WHAT IS FORBIDDEN
+
+Without prior written permission from the copyright holder, you
+MAY NOT:
+
+  a. Use, attempt to use, or facilitate the use of the concept
+     described in this repository for any purpose, including but
+     not limited to research, development, prototyping, benchmarking,
+     teaching, academic publication, or commercial activity.
+  b. Build, design, code, simulate, model, or otherwise create any
+     implementation, partial implementation, prototype, or
+     functional analog of the system described herein.
+  c. Reverse engineer, decompile, disassemble, or attempt to
+     reconstruct the concept or any of its components from this
+     disclosure.
+  d. Modify, adapt, translate, port, or create derivative works
+     based on the README, the LICENSE, or any other file in this
+     repository.
+  e. Redistribute, republish, mirror, scrape, archive, or otherwise
+     reproduce the contents of this repository in any medium, in
+     whole or in part, except for the limited prior-art reference
+     right granted in Section 3.
+  f. Sublicense, assign, or transfer any right, actual or claimed,
+     under this License or under any right derived from this
+     disclosure.
+  g. Use the names "H.A.R.T.", "Hyperscale Autonomous Recursive
+     Tactic", "Deterministic Metacognitive Symbolic AGI", "o30m",
+     or any confusingly similar mark, in any context, without the
+     prior written permission of the copyright holder.
+  h. Use the existence, content, or date of this repository as a
+     defense against any claim of infringement, misappropriation,
+     or unfair competition brought by the copyright holder.
+
+5. NOT AN OPEN-SOURCE LICENSE
+
+This is not an open-source license. It is not a source-available
+license. It is not a Creative Commons license. It is not a
+"source code" license of any kind, because no source code is
+disclosed in this repository. The contents of this repository are
+a public record of a private concept, released for the limited
+purpose of establishing the copyright holder's prior disclosure.
+
+6. PRIOR ART AND ACADEMIC REFERENCE
+
+A reader of this repository who wishes to reference the concept
+for purely documentary, prior-art, or academic-survey purposes
+is permitted to do so, provided that such reference:
+
+  a. Attributes the concept to the copyright holder by name.
+  b. Quotes only the disclosed README and not any privately held
+     document.
+  c. Does not itself constitute, enable, or encourage
+     implementation, study-for-implementation, or competitive
+     development.
+  d. Is not made in the course of, or in aid of, any commercial
+     activity.
+
+7. NO WARRANTY
+
+THIS REPOSITORY AND ITS CONTENTS ARE PROVIDED "AS IS" AND "AS
+AVAILABLE." THE COPYRIGHT HOLDER MAKES NO REPRESENTATION OR
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE CONCEPT
+DESCRIBED HEREIN IS OR WILL BE PRACTICABLE, COMMERCIAL, OR
+NON-INFRINGING.
+
+8. NO LICENSE TO TRADEMARKS
+
+Nothing in this License grants any right to use the trademarks,
+service marks, trade names, logos, or branding of the copyright
+holder or of o30m MSME (Udyam Registered).
+
+9. TERMINATION
+
+Any permission granted under this License terminates automatically
+upon any violation of its terms. The copyright holder may, at
+sole discretion, waive termination in writing.
+
+10. GOVERNING LAW AND JURISDICTION
+
+This License is governed by the laws of the Republic of India
+and by the international copyright conventions to which India is
+a party. The courts of Mumbai, India, shall have exclusive
+jurisdiction over any dispute arising from or related to this
+License or to the contents of this repository, without prejudice
+to the copyright holder's right to seek relief in any other
+competent jurisdiction.
 
 11. SEVERABILITY
 
-
-If any provision of this License is determined to be unenforceable or
-invalid, the remaining provisions shall remain in full force and effect.
-
+If any provision of this License is held unenforceable, the
+remaining provisions remain in full force and effect.
 
 12. ENTIRE LICENSE
 
+This License is the complete and exclusive statement of the
+rights granted and withheld by the copyright holder regarding
+the contents of this repository.
 
-This License constitutes the complete terms governing the rights granted
-to you regarding the software, except where the copyright holder provides
-additional written terms or a separate commercial license.
+---
 
+Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
+Operating under o30m MSME (Udyam Registered).
+Contact: o30m@proton.me
 
-13. RESERVATION OF RIGHTS
-
-
-All rights not expressly granted by this License are reserved by the
-copyright holder.
-
-
-Copyright (c) 2026 o30m MSME (Udyam) Bhavesh M. Dhake
-
-All rights reserved.
