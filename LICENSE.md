@@ -1,8 +1,8 @@
-H.A.R.T. CONCEPT DISCLOSURE — READ-ONLY LICENSE
-Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
-Operating under o30m MSME (Udyam Registered).
+## H.A.R.T. CONCEPT DISCLOSURE — READ-ONLY LICENSE
+## Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
+## Operating under o30m MSME (Udyam Registered).
 
-1. PURPOSE OF THIS REPOSITORY
+### 1. PURPOSE OF THIS REPOSITORY
 
 This repository is a public record of the public disclosure of a concept.
 It contains no source code, no implementation, and no technical artifacts
@@ -10,7 +10,7 @@ that would permit reproduction. Its sole function is to establish a
 dated, public, cryptographic record of the originator's claim to the
 concept named herein.
 
-2. WHAT IS PROTECTED
+### 2. WHAT IS PROTECTED
 
 The following are the intellectual property of the copyright holder and
 are protected by this License, by copyright, by trade-secret law where
@@ -30,7 +30,7 @@ jurisdiction in which this License is enforced:
      artifact held privately by the copyright holder that is
      consistent with the disclosures of this repository.
 
-3. WHAT IS PERMITTED
+### 3. WHAT IS PERMITTED
 
 The only permission granted by this License is to:
 
@@ -47,7 +47,7 @@ The only permission granted by this License is to:
   disclosed concept as a basis, input, or reference for any
   technical, commercial, academic, or research project.
 
-4. WHAT IS FORBIDDEN
+### 4. WHAT IS FORBIDDEN
 
 Without prior written permission from the copyright holder, you
 MAY NOT:
@@ -80,7 +80,7 @@ MAY NOT:
      defense against any claim of infringement, misappropriation,
      or unfair competition brought by the copyright holder.
 
-5. NOT AN OPEN-SOURCE LICENSE
+### 5. NOT AN OPEN-SOURCE LICENSE
 
 This is not an open-source license. It is not a source-available
 license. It is not a Creative Commons license. It is not a
@@ -89,7 +89,7 @@ disclosed in this repository. The contents of this repository are
 a public record of a private concept, released for the limited
 purpose of establishing the copyright holder's prior disclosure.
 
-6. PRIOR ART AND ACADEMIC REFERENCE
+### 6. PRIOR ART AND ACADEMIC REFERENCE
 
 A reader of this repository who wishes to reference the concept
 for purely documentary, prior-art, or academic-survey purposes
@@ -104,7 +104,7 @@ is permitted to do so, provided that such reference:
   d. Is not made in the course of, or in aid of, any commercial
      activity.
 
-7. NO WARRANTY
+### 7. NO WARRANTY
 
 THIS REPOSITORY AND ITS CONTENTS ARE PROVIDED "AS IS" AND "AS
 AVAILABLE." THE COPYRIGHT HOLDER MAKES NO REPRESENTATION OR
@@ -114,19 +114,19 @@ PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE CONCEPT
 DESCRIBED HEREIN IS OR WILL BE PRACTICABLE, COMMERCIAL, OR
 NON-INFRINGING.
 
-8. NO LICENSE TO TRADEMARKS
+### 8. NO LICENSE TO TRADEMARKS
 
 Nothing in this License grants any right to use the trademarks,
 service marks, trade names, logos, or branding of the copyright
 holder or of o30m MSME (Udyam Registered).
 
-9. TERMINATION
+### 9. TERMINATION
 
 Any permission granted under this License terminates automatically
 upon any violation of its terms. The copyright holder may, at
 sole discretion, waive termination in writing.
 
-10. GOVERNING LAW AND JURISDICTION
+### 10. GOVERNING LAW AND JURISDICTION
 
 This License is governed by the laws of the Republic of India
 and by the international copyright conventions to which India is
@@ -136,12 +136,12 @@ License or to the contents of this repository, without prejudice
 to the copyright holder's right to seek relief in any other
 competent jurisdiction.
 
-11. SEVERABILITY
+### 11. SEVERABILITY
 
 If any provision of this License is held unenforceable, the
 remaining provisions remain in full force and effect.
 
-12. ENTIRE LICENSE
+### 12. ENTIRE LICENSE
 
 This License is the complete and exclusive statement of the
 rights granted and withheld by the copyright holder regarding
@@ -149,7 +149,7 @@ the contents of this repository.
 
 ---
 
-Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
-Operating under o30m MSME (Udyam Registered).
-Contact: o30m@proton.me
+## Copyright (c) 2026 Bhavesh M. Dhake. All rights reserved.
+## Operating under o30m MSME (Udyam Registered).
+## Contact: o30m@proton.me
 
