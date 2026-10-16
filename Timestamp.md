@@ -42,3 +42,14 @@
 
 <img width="1298" height="578" alt="image" src="https://github.com/user-attachments/assets/92ca77d1-9f41-4eb1-9748-77cd8d281233" />
 
+## =============================================
+
+# 4 
+
+## https://opentimestamps.org/
+
+### ProjSkynet.pdf 280.6 kB
+
+### SHA256: 5464117e5f3e7249bde6a7326d9832af9c298297dcce334cc50648076b504bfc
+
+<img width="1294" height="527" alt="image" src="https://github.com/user-attachments/assets/ddd85aea-d6ac-4545-8f18-31f57407a750" />
